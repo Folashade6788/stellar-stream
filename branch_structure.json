@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1064-api-define-boundary-behavior-for-asset",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1064-api-define-boundary-behavior-for-asset": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1064-api-define-boundary-behavior-for-asset",
+    "origin"
+  ]
+}
